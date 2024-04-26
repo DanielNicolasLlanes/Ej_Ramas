@@ -1,0 +1,6 @@
+Esta es una lista de comandos
+git init
+git status
+git log --oneline
+git add
+git commit

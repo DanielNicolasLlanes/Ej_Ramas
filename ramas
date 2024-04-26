@@ -3,4 +3,6 @@ git init
 git status
 git log --oneline
 git add
+<<<<<<< HEAD
 git commit -m "mensaje"
+=======
